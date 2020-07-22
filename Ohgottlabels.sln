@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ohgottlabels", "Ohgottlabels\Ohgottlabels.csproj", "{55506A37-3379-4881-BEC0-AC92526603A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55506A37-3379-4881-BEC0-AC92526603A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55506A37-3379-4881-BEC0-AC92526603A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55506A37-3379-4881-BEC0-AC92526603A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55506A37-3379-4881-BEC0-AC92526603A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB5C7B3-CC79-4CFF-8958-4B32034CB901}
+	EndGlobalSection
+EndGlobal
